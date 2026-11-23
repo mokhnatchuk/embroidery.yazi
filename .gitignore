@@ -1,0 +1,24 @@
+# Build artifacts
+/embroidery-preview
+*.o
+build/
+
+# Embroidery design files
+*.jef
+*.JEF
+*.jef+
+*.JEF+
+*.pes
+*.PES
+*.pec
+*.PEC
+*.dst
+*.DST
+*.exp
+*.EXP
+*.vp3
+*.VP3
+
+# Temporary previews & OS junk
+*.png
+.DS_Store
